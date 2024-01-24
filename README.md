@@ -16,5 +16,5 @@
 ## Код
 [Jupiter Notebook](https://github.com/ValeriaGlushkova/E-learning/blob/main/e-learning.ipynb)
 ## Выводы:
-Выводы здесь 
+Выводы [здесь](https://github.com/ValeriaGlushkova/E-learning/blob/main/insights.md) 
   
