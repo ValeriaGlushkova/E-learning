@@ -14,7 +14,7 @@
 - pandas
 
 ## Код
-Jupiter Notebook здесь
+[Jupiter Notebook](https://github.com/ValeriaGlushkova/E-learning/blob/main/e-learning.ipynb)
 ## Выводы:
 Выводы здесь 
   
